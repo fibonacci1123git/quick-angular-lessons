@@ -1,1 +1,2 @@
 
+These provide a way to get access to a DOM element in the Angular Cpmponent, to manipulate it.
